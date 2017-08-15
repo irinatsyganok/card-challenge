@@ -49,7 +49,7 @@ getInitialState() {
         selectedCards
     })
   },
-  shuffle : function(pack) {
+  shuffle: function(pack) {
     let currentIndex = pack.length, tempValue, randomIndex;
     while(0!== currentIndex) {
         randomIndex = Math.floor(Math.random()*currentIndex);
@@ -69,22 +69,24 @@ getInitialState() {
         <div className="container">
             <h1> The card challenge </h1>
 
-            <button onClick={() => this.shuffle(pack)}> Shuffle </button>
+            <button className="button" onClick={() => this.shuffle(pack)}> Shuffle </button>
             {pack.map((card) => {
                 return(
                     <Card key={card.id} handleClick={()=> this.selectCard(card)} card={card} />    
                 );
             })}
 
-            <div> Selected Cards
+            <div className="selectedCards"> 
+                <h2> Selected Cards </h2>
               {selectedCards.length >=1 ? selectedCards.map((card) => {
                   return (
                     <Card key={card.id} card={card} />
                   );
-              } 
-              ) : <div> No Cards Selected </div>}  
-              <button onClick={() => this.sortCardsByValue(selectedCards)}> Sort By Value </button>
-              <button onClick={() => this.sortCardsBySuit(selectedCards)}> Sort By Suit </button>
+              }) : <div className="noCardsSelected"> No Cards Selected </div>}  
+                <div>
+                    <button className="button" onClick={() => this.sortCardsByValue(selectedCards)}> Sort By Value </button>
+                    <button className="button" onClick={() => this.sortCardsBySuit(selectedCards)}> Sort By Suit </button>
+                </div>
             </div>
 
         </div>

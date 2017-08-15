@@ -1,0 +1,5586 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Should render correctly 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <div
+    className="container"
+>
+    <h1>
+         The card challenge 
+    </h1>
+    <button
+        className="shuffleBtn"
+        onClick={[Function]}
+    >
+         Shuffle 
+    </button>
+    <Card
+        card={
+            Object {
+                "name": "2",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 1,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "3",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 2,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "4",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 3,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "5",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 4,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "6",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 5,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "7",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 6,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "8",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 7,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "9",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 8,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "10",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 9,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Jack",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 10,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Queen",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 11,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "King",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 12,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Ace",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 13,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "2",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 1,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "3",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 2,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "4",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 3,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "5",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 4,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "6",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 5,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "7",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 6,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "8",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 7,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "9",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 8,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "10",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 9,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Jack",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 10,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Queen",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 11,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "King",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 12,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Ace",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 13,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "2",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 1,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "3",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 2,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "4",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 3,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "5",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 4,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "6",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 5,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "7",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 6,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "8",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 7,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "9",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 8,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "10",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 9,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Jack",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 10,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Queen",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 11,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "King",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 12,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Ace",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 13,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "2",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 1,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "3",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 2,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "4",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 3,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "5",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 4,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "6",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 5,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "7",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 6,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "8",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 7,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "9",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 8,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "10",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 9,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Jack",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 10,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Queen",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 11,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "King",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 12,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Ace",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 13,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <div>
+         Selected Cards
+        <div>
+             No Cards Selected 
+        </div>
+        <button
+            onClick={[Function]}
+        >
+             Sort By Value 
+        </button>
+        <button
+            onClick={[Function]}
+        >
+             Sort By Suit 
+        </button>
+    </div>
+</div>,
+  "nodes": Array [
+    <div
+      className="container"
+>
+      <h1>
+             The card challenge 
+      </h1>
+      <button
+            className="shuffleBtn"
+            onClick={[Function]}
+      >
+             Shuffle 
+      </button>
+      <Card
+            card={
+                  Object {
+                        "name": "2",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 1,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "3",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 2,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "4",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 3,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "5",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 4,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "6",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 5,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "7",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 6,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "8",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 7,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "9",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 8,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "10",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 9,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Jack",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 10,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Queen",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 11,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "King",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 12,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Ace",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 13,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "2",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 1,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "3",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 2,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "4",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 3,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "5",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 4,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "6",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 5,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "7",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 6,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "8",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 7,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "9",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 8,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "10",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 9,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Jack",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 10,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Queen",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 11,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "King",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 12,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Ace",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 13,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "2",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 1,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "3",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 2,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "4",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 3,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "5",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 4,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "6",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 5,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "7",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 6,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "8",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 7,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "9",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 8,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "10",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 9,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Jack",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 10,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Queen",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 11,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "King",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 12,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Ace",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 13,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "2",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 1,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "3",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 2,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "4",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 3,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "5",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 4,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "6",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 5,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "7",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 6,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "8",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 7,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "9",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 8,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "10",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 9,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Jack",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 10,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Queen",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 11,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "King",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 12,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Ace",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 13,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <div>
+             Selected Cards
+            <div>
+                   No Cards Selected 
+            </div>
+            <button
+                  onClick={[Function]}
+            >
+                   Sort By Value 
+            </button>
+            <button
+                  onClick={[Function]}
+            >
+                   Sort By Suit 
+            </button>
+      </div>
+</div>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <App />,
+      "_debugID": 3,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance":  {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {},
+        "refs": Object {},
+        "selectCard": [Function],
+        "shuffle": [Function],
+        "sortCardsBySuit": [Function],
+        "sortCardsByValue": [Function],
+        "state": Object {
+          "pack": Array [
+            Object {
+              "name": "2",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 1,
+            },
+            Object {
+              "name": "3",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 2,
+            },
+            Object {
+              "name": "4",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 3,
+            },
+            Object {
+              "name": "5",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 4,
+            },
+            Object {
+              "name": "6",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 5,
+            },
+            Object {
+              "name": "7",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 6,
+            },
+            Object {
+              "name": "8",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 7,
+            },
+            Object {
+              "name": "9",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 8,
+            },
+            Object {
+              "name": "10",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 9,
+            },
+            Object {
+              "name": "Jack",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 10,
+            },
+            Object {
+              "name": "Queen",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 11,
+            },
+            Object {
+              "name": "King",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 12,
+            },
+            Object {
+              "name": "Ace",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 13,
+            },
+            Object {
+              "name": "2",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 1,
+            },
+            Object {
+              "name": "3",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 2,
+            },
+            Object {
+              "name": "4",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 3,
+            },
+            Object {
+              "name": "5",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 4,
+            },
+            Object {
+              "name": "6",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 5,
+            },
+            Object {
+              "name": "7",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 6,
+            },
+            Object {
+              "name": "8",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 7,
+            },
+            Object {
+              "name": "9",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 8,
+            },
+            Object {
+              "name": "10",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 9,
+            },
+            Object {
+              "name": "Jack",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 10,
+            },
+            Object {
+              "name": "Queen",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 11,
+            },
+            Object {
+              "name": "King",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 12,
+            },
+            Object {
+              "name": "Ace",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 13,
+            },
+            Object {
+              "name": "2",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 1,
+            },
+            Object {
+              "name": "3",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 2,
+            },
+            Object {
+              "name": "4",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 3,
+            },
+            Object {
+              "name": "5",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 4,
+            },
+            Object {
+              "name": "6",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 5,
+            },
+            Object {
+              "name": "7",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 6,
+            },
+            Object {
+              "name": "8",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 7,
+            },
+            Object {
+              "name": "9",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 8,
+            },
+            Object {
+              "name": "10",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 9,
+            },
+            Object {
+              "name": "Jack",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 10,
+            },
+            Object {
+              "name": "Queen",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 11,
+            },
+            Object {
+              "name": "King",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 12,
+            },
+            Object {
+              "name": "Ace",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 13,
+            },
+            Object {
+              "name": "2",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 1,
+            },
+            Object {
+              "name": "3",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 2,
+            },
+            Object {
+              "name": "4",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 3,
+            },
+            Object {
+              "name": "5",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 4,
+            },
+            Object {
+              "name": "6",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 5,
+            },
+            Object {
+              "name": "7",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 6,
+            },
+            Object {
+              "name": "8",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 7,
+            },
+            Object {
+              "name": "9",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 8,
+            },
+            Object {
+              "name": "10",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 9,
+            },
+            Object {
+              "name": "Jack",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 10,
+            },
+            Object {
+              "name": "Queen",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 11,
+            },
+            Object {
+              "name": "King",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 12,
+            },
+            Object {
+              "name": "Ace",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 13,
+            },
+          ],
+          "selectedCards": Array [],
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 2,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <div
+          className="container"
+>
+          <h1>
+                     The card challenge 
+          </h1>
+          <button
+                    className="shuffleBtn"
+                    onClick={[Function]}
+          >
+                     Shuffle 
+          </button>
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <div>
+                     Selected Cards
+                    <div>
+                               No Cards Selected 
+                    </div>
+                    <button
+                              onClick={[Function]}
+                    >
+                               Sort By Value 
+                    </button>
+                    <button
+                              onClick={[Function]}
+                    >
+                               Sort By Suit 
+                    </button>
+          </div>
+</div>,
+        "_debugID": 4,
+        "_renderedOutput": <div
+          className="container"
+>
+          <h1>
+                     The card challenge 
+          </h1>
+          <button
+                    className="shuffleBtn"
+                    onClick={[Function]}
+          >
+                     Shuffle 
+          </button>
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <div>
+                     Selected Cards
+                    <div>
+                               No Cards Selected 
+                    </div>
+                    <button
+                              onClick={[Function]}
+                    >
+                               Sort By Value 
+                    </button>
+                    <button
+                              onClick={[Function]}
+                    >
+                               Sort By Suit 
+                    </button>
+          </div>
+</div>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <App />,
+}
+`;
+
+exports[`App Should render its children 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <div
+    className="container"
+>
+    <h1>
+         The card challenge 
+    </h1>
+    <button
+        className="shuffleBtn"
+        onClick={[Function]}
+    >
+         Shuffle 
+    </button>
+    <Card
+        card={
+            Object {
+                "name": "2",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 1,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "3",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 2,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "4",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 3,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "5",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 4,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "6",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 5,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "7",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 6,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "8",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 7,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "9",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 8,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "10",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 9,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Jack",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 10,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Queen",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 11,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "King",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 12,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Ace",
+                "suit": "&clubs;",
+                "suitValue": 1,
+                "value": 13,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "2",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 1,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "3",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 2,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "4",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 3,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "5",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 4,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "6",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 5,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "7",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 6,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "8",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 7,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "9",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 8,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "10",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 9,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Jack",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 10,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Queen",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 11,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "King",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 12,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Ace",
+                "suit": "&spades;",
+                "suitValue": 2,
+                "value": 13,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "2",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 1,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "3",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 2,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "4",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 3,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "5",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 4,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "6",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 5,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "7",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 6,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "8",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 7,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "9",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 8,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "10",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 9,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Jack",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 10,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Queen",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 11,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "King",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 12,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Ace",
+                "suit": "&hearts;",
+                "suitValue": 3,
+                "value": 13,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "2",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 1,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "3",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 2,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "4",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 3,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "5",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 4,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "6",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 5,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "7",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 6,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "8",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 7,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "9",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 8,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "10",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 9,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Jack",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 10,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Queen",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 11,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "King",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 12,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <Card
+        card={
+            Object {
+                "name": "Ace",
+                "suit": "&diams;",
+                "suitValue": 4,
+                "value": 13,
+              }
+        }
+        handleClick={[Function]}
+    />
+    <div>
+         Selected Cards
+        <div>
+             No Cards Selected 
+        </div>
+        <button
+            onClick={[Function]}
+        >
+             Sort By Value 
+        </button>
+        <button
+            onClick={[Function]}
+        >
+             Sort By Suit 
+        </button>
+    </div>
+</div>,
+  "nodes": Array [
+    <div
+      className="container"
+>
+      <h1>
+             The card challenge 
+      </h1>
+      <button
+            className="shuffleBtn"
+            onClick={[Function]}
+      >
+             Shuffle 
+      </button>
+      <Card
+            card={
+                  Object {
+                        "name": "2",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 1,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "3",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 2,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "4",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 3,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "5",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 4,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "6",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 5,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "7",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 6,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "8",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 7,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "9",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 8,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "10",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 9,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Jack",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 10,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Queen",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 11,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "King",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 12,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Ace",
+                        "suit": "&clubs;",
+                        "suitValue": 1,
+                        "value": 13,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "2",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 1,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "3",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 2,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "4",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 3,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "5",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 4,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "6",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 5,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "7",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 6,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "8",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 7,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "9",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 8,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "10",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 9,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Jack",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 10,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Queen",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 11,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "King",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 12,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Ace",
+                        "suit": "&spades;",
+                        "suitValue": 2,
+                        "value": 13,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "2",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 1,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "3",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 2,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "4",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 3,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "5",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 4,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "6",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 5,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "7",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 6,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "8",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 7,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "9",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 8,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "10",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 9,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Jack",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 10,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Queen",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 11,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "King",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 12,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Ace",
+                        "suit": "&hearts;",
+                        "suitValue": 3,
+                        "value": 13,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "2",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 1,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "3",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 2,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "4",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 3,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "5",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 4,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "6",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 5,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "7",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 6,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "8",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 7,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "9",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 8,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "10",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 9,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Jack",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 10,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Queen",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 11,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "King",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 12,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <Card
+            card={
+                  Object {
+                        "name": "Ace",
+                        "suit": "&diams;",
+                        "suitValue": 4,
+                        "value": 13,
+                      }
+            }
+            handleClick={[Function]}
+      />
+      <div>
+             Selected Cards
+            <div>
+                   No Cards Selected 
+            </div>
+            <button
+                  onClick={[Function]}
+            >
+                   Sort By Value 
+            </button>
+            <button
+                  onClick={[Function]}
+            >
+                   Sort By Suit 
+            </button>
+      </div>
+</div>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <App>
+        <h1>
+                 Page Title
+        </h1>
+        <Card />
+</App>,
+      "_debugID": 1,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance":  {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "children": Array [
+            <h1>
+               Page Title
+</h1>,
+            <Card />,
+          ],
+        },
+        "refs": Object {},
+        "selectCard": [Function],
+        "shuffle": [Function],
+        "sortCardsBySuit": [Function],
+        "sortCardsByValue": [Function],
+        "state": Object {
+          "pack": Array [
+            Object {
+              "name": "2",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 1,
+            },
+            Object {
+              "name": "3",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 2,
+            },
+            Object {
+              "name": "4",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 3,
+            },
+            Object {
+              "name": "5",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 4,
+            },
+            Object {
+              "name": "6",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 5,
+            },
+            Object {
+              "name": "7",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 6,
+            },
+            Object {
+              "name": "8",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 7,
+            },
+            Object {
+              "name": "9",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 8,
+            },
+            Object {
+              "name": "10",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 9,
+            },
+            Object {
+              "name": "Jack",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 10,
+            },
+            Object {
+              "name": "Queen",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 11,
+            },
+            Object {
+              "name": "King",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 12,
+            },
+            Object {
+              "name": "Ace",
+              "suit": "&clubs;",
+              "suitValue": 1,
+              "value": 13,
+            },
+            Object {
+              "name": "2",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 1,
+            },
+            Object {
+              "name": "3",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 2,
+            },
+            Object {
+              "name": "4",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 3,
+            },
+            Object {
+              "name": "5",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 4,
+            },
+            Object {
+              "name": "6",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 5,
+            },
+            Object {
+              "name": "7",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 6,
+            },
+            Object {
+              "name": "8",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 7,
+            },
+            Object {
+              "name": "9",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 8,
+            },
+            Object {
+              "name": "10",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 9,
+            },
+            Object {
+              "name": "Jack",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 10,
+            },
+            Object {
+              "name": "Queen",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 11,
+            },
+            Object {
+              "name": "King",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 12,
+            },
+            Object {
+              "name": "Ace",
+              "suit": "&spades;",
+              "suitValue": 2,
+              "value": 13,
+            },
+            Object {
+              "name": "2",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 1,
+            },
+            Object {
+              "name": "3",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 2,
+            },
+            Object {
+              "name": "4",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 3,
+            },
+            Object {
+              "name": "5",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 4,
+            },
+            Object {
+              "name": "6",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 5,
+            },
+            Object {
+              "name": "7",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 6,
+            },
+            Object {
+              "name": "8",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 7,
+            },
+            Object {
+              "name": "9",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 8,
+            },
+            Object {
+              "name": "10",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 9,
+            },
+            Object {
+              "name": "Jack",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 10,
+            },
+            Object {
+              "name": "Queen",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 11,
+            },
+            Object {
+              "name": "King",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 12,
+            },
+            Object {
+              "name": "Ace",
+              "suit": "&hearts;",
+              "suitValue": 3,
+              "value": 13,
+            },
+            Object {
+              "name": "2",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 1,
+            },
+            Object {
+              "name": "3",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 2,
+            },
+            Object {
+              "name": "4",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 3,
+            },
+            Object {
+              "name": "5",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 4,
+            },
+            Object {
+              "name": "6",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 5,
+            },
+            Object {
+              "name": "7",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 6,
+            },
+            Object {
+              "name": "8",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 7,
+            },
+            Object {
+              "name": "9",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 8,
+            },
+            Object {
+              "name": "10",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 9,
+            },
+            Object {
+              "name": "Jack",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 10,
+            },
+            Object {
+              "name": "Queen",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 11,
+            },
+            Object {
+              "name": "King",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 12,
+            },
+            Object {
+              "name": "Ace",
+              "suit": "&diams;",
+              "suitValue": 4,
+              "value": 13,
+            },
+          ],
+          "selectedCards": Array [],
+        },
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 1,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <div
+          className="container"
+>
+          <h1>
+                     The card challenge 
+          </h1>
+          <button
+                    className="shuffleBtn"
+                    onClick={[Function]}
+          >
+                     Shuffle 
+          </button>
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <div>
+                     Selected Cards
+                    <div>
+                               No Cards Selected 
+                    </div>
+                    <button
+                              onClick={[Function]}
+                    >
+                               Sort By Value 
+                    </button>
+                    <button
+                              onClick={[Function]}
+                    >
+                               Sort By Suit 
+                    </button>
+          </div>
+</div>,
+        "_debugID": 2,
+        "_renderedOutput": <div
+          className="container"
+>
+          <h1>
+                     The card challenge 
+          </h1>
+          <button
+                    className="shuffleBtn"
+                    onClick={[Function]}
+          >
+                     Shuffle 
+          </button>
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&clubs;",
+                                        "suitValue": 1,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&spades;",
+                                        "suitValue": 2,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&hearts;",
+                                        "suitValue": 3,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "2",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 1,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "3",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 2,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "4",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 3,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "5",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 4,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "6",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 5,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "7",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 6,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "8",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 7,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "9",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 8,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "10",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 9,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Jack",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 10,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Queen",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 11,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "King",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 12,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <Card
+                    card={
+                              Object {
+                                        "name": "Ace",
+                                        "suit": "&diams;",
+                                        "suitValue": 4,
+                                        "value": 13,
+                                      }
+                    }
+                    handleClick={[Function]}
+          />
+          <div>
+                     Selected Cards
+                    <div>
+                               No Cards Selected 
+                    </div>
+                    <button
+                              onClick={[Function]}
+                    >
+                               Sort By Value 
+                    </button>
+                    <button
+                              onClick={[Function]}
+                    >
+                               Sort By Suit 
+                    </button>
+          </div>
+</div>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <App>
+    <h1>
+         Page Title
+    </h1>
+    <Card />
+</App>,
+}
+`;

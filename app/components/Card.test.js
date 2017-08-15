@@ -1,6 +1,6 @@
 import React from 'react';
 import {shallow} from 'enzyme';
-import Card from './Card'
+import Card from './Card';
 
 
 describe('Card', () => {
@@ -11,9 +11,7 @@ describe('Card', () => {
     });
 
      it('should render correctly', () => {
-        const wrapper = shallow(
-            <Card card={card} />
-        );
+        const wrapper = shallow(<Card card={card} />);
         expect(wrapper).toMatchSnapshot();
     });
 });
