@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import Card from './components/Card';
-import Title from './components/Title';
+import Card from './Card';
 
 var App = React.createClass({
 
@@ -68,7 +67,7 @@ getInitialState() {
       const { pack, selectedCards } = this.state;
     return (
         <div className="container">
-            <Title name="The card challenge" />
+            <h1> The card challenge </h1>
 
             <button onClick={() => this.shuffle(pack)}> Shuffle </button>
             {pack.map((card) => {
