@@ -24,6 +24,32 @@ getInitialState() {
           selectedCards
       });
   },
+  sortCardsByValue: function(selectedCards) {
+     function compare(a,b) {
+        if (a.value < b.value)
+            return -1;
+        if (a.value > b.value)
+            return 1;
+        return 0;
+    }
+   selectedCards.sort(compare)
+    this.setState({
+        selectedCards
+    })
+  },
+  sortCardsBySuit: function(selectedCards) {
+     function compare(a,b) {
+        if (a.suitValue < b.suitValue)
+            return -1;
+        if (a.suitValue > b.suitValue)
+            return 1;
+        return 0;
+    }
+   selectedCards.sort(compare)
+    this.setState({
+        selectedCards
+    })
+  },
   shuffle : function(pack) {
     let currentIndex = pack.length, tempValue, randomIndex;
     while(0!== currentIndex) {
@@ -54,10 +80,12 @@ getInitialState() {
             <div> Selected Cards
               {selectedCards.length >=1 ? selectedCards.map((card) => {
                   return (
-                    <Card key={card.id} card={card} />    
+                    <Card key={card.id} card={card} />
                   );
-              }) : <div> No Cards Selected </div>}  
-
+              } 
+              ) : <div> No Cards Selected </div>}  
+              <button onClick={() => this.sortCardsByValue(selectedCards)}> Sort By Value </button>
+              <button onClick={() => this.sortCardsBySuit(selectedCards)}> Sort By Suit </button>
             </div>
 
         </div>
@@ -66,7 +94,7 @@ getInitialState() {
 });
 
 let newDeck = () => {
-    const suits = ['&diams;', '&hearts;', '&spades;', '&clubs;'];
+    const suits = ['&clubs;', '&spades;', '&hearts;', '&diams;'];
     const cards = Array.from({ length: 9 }, (v, k) => k + 2).concat([ 'Jack', 'Queen', 'King', 'Ace' ]);
     return suits.reduce((acc, suit, i) => {
         cards.map((name, j) => {
