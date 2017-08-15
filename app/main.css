@@ -1,3 +1,22 @@
-.Card {
+.pageTitle {
+    text-align: center;
+    text-transform: uppercase;
+}
 
+.container {
+    background-color: #d9f4e9;
+}
+
+.card {
+    display: inline-block;
+    width: 64px;
+    height: 32px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    margin: 10px 15px;
+    padding: 5px;
+}
+
+.diams, .hearts {
+    color: red;
 }
