@@ -6,19 +6,21 @@ var App = React.createClass({
 
 getInitialState() {
     return {
-      pack : newDeck()
+      pack : newDeck(),
+      selectedCards: []
     }
   },
   selectCard: function(card) {
-      const selectedCards = [];
-      let updatedPack = this.state.pack;
+      const pack = [...this.state.pack];
+      const selectedCards = [...this.state.selectedCards]
       selectedCards.push(card);
-      var index = updatedPack.indexOf(card);
+
+      let index = pack.indexOf(card);
       if (index > -1) {
-        updatedPack.splice(index, 1);
-        }
+        pack.splice(index, 1);
+    }
       this.setState( {
-          updatedPack,
+          pack,
           selectedCards
       });
   },
@@ -37,7 +39,7 @@ getInitialState() {
     });
   },
   render() {
-      const { pack } = this.state;
+      const { pack, selectedCards } = this.state;
     return (
         <div className="container">
             <Title name="The card challenge" />
@@ -45,9 +47,19 @@ getInitialState() {
             <button onClick={() => this.shuffle(pack)}> Shuffle </button>
             {pack.map((card) => {
                 return(
-                    <Card key={card.id} handleClick={()=> this.selectCard(card)}card={card} />    
+                    <Card key={card.id} handleClick={()=> this.selectCard(card)} card={card} />    
                 );
             })}
+
+            <div> Selected Cards
+              {selectedCards.length >=1 ? selectedCards.map((card) => {
+                  return (
+                    <Card key={card.id} card={card} />    
+                  );
+              }) : <div> No Cards Selected </div>}  
+
+            </div>
+
         </div>
     )
   }
