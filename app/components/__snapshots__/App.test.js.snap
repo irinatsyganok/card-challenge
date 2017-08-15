@@ -15,7 +15,7 @@ ShallowWrapper {
          The card challenge 
     </h1>
     <button
-        className="shuffleBtn"
+        className="button"
         onClick={[Function]}
     >
          Shuffle 
@@ -592,21 +592,31 @@ ShallowWrapper {
         }
         handleClick={[Function]}
     />
-    <div>
-         Selected Cards
-        <div>
+    <div
+        className="selectedCards"
+    >
+        <h2>
+             Selected Cards 
+        </h2>
+        <div
+            className="noCardsSelected"
+        >
              No Cards Selected 
         </div>
-        <button
-            onClick={[Function]}
-        >
-             Sort By Value 
-        </button>
-        <button
-            onClick={[Function]}
-        >
-             Sort By Suit 
-        </button>
+        <div>
+            <button
+                className="button"
+                onClick={[Function]}
+            >
+                 Sort By Value 
+            </button>
+            <button
+                className="button"
+                onClick={[Function]}
+            >
+                 Sort By Suit 
+            </button>
+        </div>
     </div>
 </div>,
   "nodes": Array [
@@ -617,7 +627,7 @@ ShallowWrapper {
              The card challenge 
       </h1>
       <button
-            className="shuffleBtn"
+            className="button"
             onClick={[Function]}
       >
              Shuffle 
@@ -1194,21 +1204,31 @@ ShallowWrapper {
             }
             handleClick={[Function]}
       />
-      <div>
-             Selected Cards
-            <div>
+      <div
+            className="selectedCards"
+      >
+            <h2>
+                   Selected Cards 
+            </h2>
+            <div
+                  className="noCardsSelected"
+            >
                    No Cards Selected 
             </div>
-            <button
-                  onClick={[Function]}
-            >
-                   Sort By Value 
-            </button>
-            <button
-                  onClick={[Function]}
-            >
-                   Sort By Suit 
-            </button>
+            <div>
+                  <button
+                        className="button"
+                        onClick={[Function]}
+                  >
+                         Sort By Value 
+                  </button>
+                  <button
+                        className="button"
+                        onClick={[Function]}
+                  >
+                         Sort By Suit 
+                  </button>
+            </div>
       </div>
 </div>,
   ],
@@ -1573,7 +1593,7 @@ ShallowWrapper {
                      The card challenge 
           </h1>
           <button
-                    className="shuffleBtn"
+                    className="button"
                     onClick={[Function]}
           >
                      Shuffle 
@@ -2150,21 +2170,31 @@ ShallowWrapper {
                     }
                     handleClick={[Function]}
           />
-          <div>
-                     Selected Cards
-                    <div>
+          <div
+                    className="selectedCards"
+          >
+                    <h2>
+                               Selected Cards 
+                    </h2>
+                    <div
+                              className="noCardsSelected"
+                    >
                                No Cards Selected 
                     </div>
-                    <button
-                              onClick={[Function]}
-                    >
-                               Sort By Value 
-                    </button>
-                    <button
-                              onClick={[Function]}
-                    >
-                               Sort By Suit 
-                    </button>
+                    <div>
+                              <button
+                                        className="button"
+                                        onClick={[Function]}
+                              >
+                                         Sort By Value 
+                              </button>
+                              <button
+                                        className="button"
+                                        onClick={[Function]}
+                              >
+                                         Sort By Suit 
+                              </button>
+                    </div>
           </div>
 </div>,
         "_debugID": 4,
@@ -2175,7 +2205,7 @@ ShallowWrapper {
                      The card challenge 
           </h1>
           <button
-                    className="shuffleBtn"
+                    className="button"
                     onClick={[Function]}
           >
                      Shuffle 
@@ -2752,21 +2782,31 @@ ShallowWrapper {
                     }
                     handleClick={[Function]}
           />
-          <div>
-                     Selected Cards
-                    <div>
+          <div
+                    className="selectedCards"
+          >
+                    <h2>
+                               Selected Cards 
+                    </h2>
+                    <div
+                              className="noCardsSelected"
+                    >
                                No Cards Selected 
                     </div>
-                    <button
-                              onClick={[Function]}
-                    >
-                               Sort By Value 
-                    </button>
-                    <button
-                              onClick={[Function]}
-                    >
-                               Sort By Suit 
-                    </button>
+                    <div>
+                              <button
+                                        className="button"
+                                        onClick={[Function]}
+                              >
+                                         Sort By Value 
+                              </button>
+                              <button
+                                        className="button"
+                                        onClick={[Function]}
+                              >
+                                         Sort By Suit 
+                              </button>
+                    </div>
           </div>
 </div>,
       },
@@ -2799,7 +2839,7 @@ ShallowWrapper {
          The card challenge 
     </h1>
     <button
-        className="shuffleBtn"
+        className="button"
         onClick={[Function]}
     >
          Shuffle 
@@ -3376,21 +3416,31 @@ ShallowWrapper {
         }
         handleClick={[Function]}
     />
-    <div>
-         Selected Cards
-        <div>
+    <div
+        className="selectedCards"
+    >
+        <h2>
+             Selected Cards 
+        </h2>
+        <div
+            className="noCardsSelected"
+        >
              No Cards Selected 
         </div>
-        <button
-            onClick={[Function]}
-        >
-             Sort By Value 
-        </button>
-        <button
-            onClick={[Function]}
-        >
-             Sort By Suit 
-        </button>
+        <div>
+            <button
+                className="button"
+                onClick={[Function]}
+            >
+                 Sort By Value 
+            </button>
+            <button
+                className="button"
+                onClick={[Function]}
+            >
+                 Sort By Suit 
+            </button>
+        </div>
     </div>
 </div>,
   "nodes": Array [
@@ -3401,7 +3451,7 @@ ShallowWrapper {
              The card challenge 
       </h1>
       <button
-            className="shuffleBtn"
+            className="button"
             onClick={[Function]}
       >
              Shuffle 
@@ -3978,21 +4028,31 @@ ShallowWrapper {
             }
             handleClick={[Function]}
       />
-      <div>
-             Selected Cards
-            <div>
+      <div
+            className="selectedCards"
+      >
+            <h2>
+                   Selected Cards 
+            </h2>
+            <div
+                  className="noCardsSelected"
+            >
                    No Cards Selected 
             </div>
-            <button
-                  onClick={[Function]}
-            >
-                   Sort By Value 
-            </button>
-            <button
-                  onClick={[Function]}
-            >
-                   Sort By Suit 
-            </button>
+            <div>
+                  <button
+                        className="button"
+                        onClick={[Function]}
+                  >
+                         Sort By Value 
+                  </button>
+                  <button
+                        className="button"
+                        onClick={[Function]}
+                  >
+                         Sort By Suit 
+                  </button>
+            </div>
       </div>
 </div>,
   ],
@@ -4369,7 +4429,7 @@ ShallowWrapper {
                      The card challenge 
           </h1>
           <button
-                    className="shuffleBtn"
+                    className="button"
                     onClick={[Function]}
           >
                      Shuffle 
@@ -4946,21 +5006,31 @@ ShallowWrapper {
                     }
                     handleClick={[Function]}
           />
-          <div>
-                     Selected Cards
-                    <div>
+          <div
+                    className="selectedCards"
+          >
+                    <h2>
+                               Selected Cards 
+                    </h2>
+                    <div
+                              className="noCardsSelected"
+                    >
                                No Cards Selected 
                     </div>
-                    <button
-                              onClick={[Function]}
-                    >
-                               Sort By Value 
-                    </button>
-                    <button
-                              onClick={[Function]}
-                    >
-                               Sort By Suit 
-                    </button>
+                    <div>
+                              <button
+                                        className="button"
+                                        onClick={[Function]}
+                              >
+                                         Sort By Value 
+                              </button>
+                              <button
+                                        className="button"
+                                        onClick={[Function]}
+                              >
+                                         Sort By Suit 
+                              </button>
+                    </div>
           </div>
 </div>,
         "_debugID": 2,
@@ -4971,7 +5041,7 @@ ShallowWrapper {
                      The card challenge 
           </h1>
           <button
-                    className="shuffleBtn"
+                    className="button"
                     onClick={[Function]}
           >
                      Shuffle 
@@ -5548,21 +5618,31 @@ ShallowWrapper {
                     }
                     handleClick={[Function]}
           />
-          <div>
-                     Selected Cards
-                    <div>
+          <div
+                    className="selectedCards"
+          >
+                    <h2>
+                               Selected Cards 
+                    </h2>
+                    <div
+                              className="noCardsSelected"
+                    >
                                No Cards Selected 
                     </div>
-                    <button
-                              onClick={[Function]}
-                    >
-                               Sort By Value 
-                    </button>
-                    <button
-                              onClick={[Function]}
-                    >
-                               Sort By Suit 
-                    </button>
+                    <div>
+                              <button
+                                        className="button"
+                                        onClick={[Function]}
+                              >
+                                         Sort By Value 
+                              </button>
+                              <button
+                                        className="button"
+                                        onClick={[Function]}
+                              >
+                                         Sort By Suit 
+                              </button>
+                    </div>
           </div>
 </div>,
       },

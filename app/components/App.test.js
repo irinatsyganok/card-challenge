@@ -32,7 +32,7 @@ describe('App', () => {
     it('should provide an onClick event as prop if Button is a button', () => {
         const onClick = jest.fn();
         const wrapper = shallow(
-            <Button onClick={onClick} />
+            <button onClick={onClick} />
         );
         expect(wrapper.find('button').props().onClick).toBeDefined();
     });
