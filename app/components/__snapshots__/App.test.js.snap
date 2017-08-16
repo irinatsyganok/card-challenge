@@ -15,7 +15,7 @@ ShallowWrapper {
          The card challenge 
     </h1>
     <button
-        className="button"
+        className="button shuffle"
         onClick={[Function]}
     >
          Shuffle 
@@ -627,7 +627,7 @@ ShallowWrapper {
              The card challenge 
       </h1>
       <button
-            className="button"
+            className="button shuffle"
             onClick={[Function]}
       >
              Shuffle 
@@ -1593,7 +1593,7 @@ ShallowWrapper {
                      The card challenge 
           </h1>
           <button
-                    className="button"
+                    className="button shuffle"
                     onClick={[Function]}
           >
                      Shuffle 
@@ -2205,7 +2205,7 @@ ShallowWrapper {
                      The card challenge 
           </h1>
           <button
-                    className="button"
+                    className="button shuffle"
                     onClick={[Function]}
           >
                      Shuffle 
@@ -2839,7 +2839,7 @@ ShallowWrapper {
          The card challenge 
     </h1>
     <button
-        className="button"
+        className="button shuffle"
         onClick={[Function]}
     >
          Shuffle 
@@ -3451,7 +3451,7 @@ ShallowWrapper {
              The card challenge 
       </h1>
       <button
-            className="button"
+            className="button shuffle"
             onClick={[Function]}
       >
              Shuffle 
@@ -4429,7 +4429,7 @@ ShallowWrapper {
                      The card challenge 
           </h1>
           <button
-                    className="button"
+                    className="button shuffle"
                     onClick={[Function]}
           >
                      Shuffle 
@@ -5041,7 +5041,7 @@ ShallowWrapper {
                      The card challenge 
           </h1>
           <button
-                    className="button"
+                    className="button shuffle"
                     onClick={[Function]}
           >
                      Shuffle 
